@@ -16,7 +16,7 @@ build/
 .vercel/
 
 # Env — ignora todo .env*, exceto os templates de exemplo
-# .env*
+.env*
 !.env.example
 !.env.hostgator.example
 
